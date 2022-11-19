@@ -1,0 +1,13 @@
+{
+  "name": "Template Mod",
+  "description": "A simple mod that adds more swords",
+  "version": "1.0.0 final",
+  "language": "en-US",
+  "permissions": "mod.files, device.specinfo",
+  
+  "author": "Nothing",
+  "min-smi-version": [1, 0, 0],
+
+  "target_game_version": "1.4.4",
+  "target_scriptloader_version": "1.0.0"
+}
